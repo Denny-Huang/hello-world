@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Hi It's Denny Huang
+Hi, This is Denny Huang.
